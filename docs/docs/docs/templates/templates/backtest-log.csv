@@ -1,0 +1,2 @@
+Trade_Nr,Datum,Richtung,Entry,SL,TP1,TP2,TP3,Konfluenz_Score,Grade,Kategorien,Trigger_Count,Ergebnis,R_Multiple,Holding_Days,PnL_BTC,PnL_Pct,Notes
+1,2023-01-15,LONG,21500,20800,23600,24200,25000,7.5,B,4,3,TP2,4.0,8,0.06,3.0,RSI div + OB + funding neg
